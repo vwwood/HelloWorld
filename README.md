@@ -1,2 +1,2 @@
 # HelloWorld
-Just starting in GitHub with this first Repositories
+Just getting starting in GitHub with this first Repositories
